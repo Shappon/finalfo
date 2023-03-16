@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "//finalfo/static/js/main.85072eb8.js",
-    "index.html": "//finalfo/index.html",
-    "main.85072eb8.js.map": "//finalfo/static/js/main.85072eb8.js.map"
+    "main.js": "/finalfo/static/js/main.85072eb8.js",
+    "index.html": "/finalfo/index.html",
+    "main.85072eb8.js.map": "/finalfo/static/js/main.85072eb8.js.map"
   },
   "entrypoints": [
     "static/js/main.85072eb8.js"
