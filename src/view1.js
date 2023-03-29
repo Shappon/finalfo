@@ -21,7 +21,7 @@ const View1 = () => {
     <h2 className="y animate__animated animate__bounceInLeft  e">Actuellement en recherche d'alternance </h2>
     <h2 className="y animate__animated animate__bounceInLeft   e">Cybersécurité </h2>
     <div className="txtrev y" style={{ position: 'fixed', top: 400, right: 70 }} >
-    <div className="bv animate__animated animate__zoomInRight y " style={{ position:'fixed' , top:30 ,left:620}} ><h1>Bienvenu</h1></div>
+    <div className="bv animate__animated animate__zoomInRight y " style={{ position:'fixed' , top:30 ,left:620}} ><h1>Bienvenue</h1></div>
     <Typical
         
         steps={[
